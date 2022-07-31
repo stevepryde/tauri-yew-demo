@@ -10,7 +10,7 @@ https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe
 rustup target add wasm32-unknown-unknown
 cargo install trunk
 cargo install wasm-bindgen-cli
-cargo install tauri-cli --version ^1.0.0-beta
+cargo install tauri-cli
 ```
 
 ## Dev Server 
